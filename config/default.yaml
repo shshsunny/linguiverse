@@ -1,0 +1,9 @@
+# data-relevant config
+target_lang: english
+
+# model-relevant config
+## online models
+text_model: "qwen-plus-2025-07-28" # alternatives: qwen-plus, other history snapshot versions like qwen-plus-2025-07-28, qwen-plus-2025-07-14, etc.
+flux_model: "flux-schnell" # alternative: flux-dev
+## local models
+model_cache_dir: "D:\\sd_models"
